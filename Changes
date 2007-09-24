@@ -1,0 +1,4 @@
+# This file documents the revision history for the perl extension CatalystX::Controller::reCAPTCHA
+
+0.1
+        - Initial version that supplies two : Private methods in your controller to deal with the reCAPTCHA
